@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Layirael
+- 👋 Hi, I’m @Israel Layi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on flowchats and pseucode
